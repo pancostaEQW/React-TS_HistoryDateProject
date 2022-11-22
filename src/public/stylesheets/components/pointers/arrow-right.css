@@ -1,0 +1,13 @@
+.arrow-right {
+  position: absolute;
+  width: 6.25px;
+  height: 12.5px;
+  top: 757.25px;
+}
+
+.arrow-right {
+  left: 534px;
+  transform: rotate(180deg);
+}
+
+/*# sourceMappingURL=arrow-right.css.map */

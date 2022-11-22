@@ -1,0 +1,13 @@
+.swiper-button-pre {
+  position: absolute;
+  display: block;
+  width: 40px;
+  height: 40px;
+  left: 333px;
+  top: 882px;
+  background: #ffffff;
+  border-radius: 50%;
+  box-shadow: 0px 0px 15px rgba(56, 119, 238, 0.1);
+}
+
+/*# sourceMappingURL=perv-mydate-button.css.map */

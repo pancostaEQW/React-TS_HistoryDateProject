@@ -1,0 +1,7 @@
+@import "./text-date-box.scss";
+
+.text-date-2015 {
+    @extend %text-date-box;
+    left: 400px;
+    width: 320px;
+}

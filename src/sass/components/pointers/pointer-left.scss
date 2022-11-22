@@ -1,0 +1,7 @@
+@import "./pointer-box.scss";
+
+.pointer-left {
+    @extend %pointer-box;
+    left: 450px;
+    transform: matrix(-1, 0, 0, 1, 0, 0);
+}

@@ -1,0 +1,13 @@
+@import "./box-content.scss";
+
+.circle {
+  @extend %box-content;
+  box-sizing: border-box;
+  width: 530px;
+  height: 530px;
+  left: 775px;
+  top: 215px;
+  border-radius: 50%;
+  opacity: 1;
+  writing-mode:horizontal-tb;
+}

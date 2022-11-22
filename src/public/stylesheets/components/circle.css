@@ -1,0 +1,17 @@
+.circle {
+  position: absolute;
+  opacity: 0.1;
+  border: 1px solid #42567A;
+}
+
+.circle {
+  box-sizing: border-box;
+  width: 530px;
+  height: 530px;
+  left: 775px;
+  top: 215px;
+  border-radius: 50%;
+  opacity: 0.2;
+}
+
+/*# sourceMappingURL=circle.css.map */

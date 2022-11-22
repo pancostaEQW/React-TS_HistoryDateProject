@@ -1,0 +1,20 @@
+.gradient {
+  position: absolute;
+  width: 0px;
+  height: 120px;
+  left: 322px;
+  top: 177px;
+  border: solid 5px transparent;
+}
+.gradient:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  margin: -5px;
+  background: linear-gradient(#3877EE, #EF5DA8);
+}
+
+/*# sourceMappingURL=gradient.css.map */

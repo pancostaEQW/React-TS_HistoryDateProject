@@ -1,0 +1,9 @@
+@import "./box-content.scss";
+
+.center-line-g {
+  @extend %box-content;
+  width: 1440px;
+  height: 0px;
+  left: 320px;
+  top: 480px;
+}

@@ -1,0 +1,6 @@
+@import "./date-box.scss";
+
+.date2015 {
+    @extend %date-box;
+    left: 400px;
+}

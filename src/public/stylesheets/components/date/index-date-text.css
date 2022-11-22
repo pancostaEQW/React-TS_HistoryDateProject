@@ -1,0 +1,52 @@
+.text-date-2017, .text-date-2016, .text-date-2015 {
+  position: absolute;
+  height: 90px;
+  top: 886px;
+  font-family: "PT Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 30px;
+  color: #42567a;
+}
+
+.text-date-2015 {
+  left: 400px;
+  width: 320px;
+}
+
+.text-date-2017, .text-date-2016, .text-date-2015 {
+  position: absolute;
+  height: 90px;
+  top: 886px;
+  font-family: "PT Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 30px;
+  color: #42567a;
+}
+
+.text-date-2016 {
+  left: 800px;
+  width: 400px;
+}
+
+.text-date-2017, .text-date-2015, .text-date-2016 {
+  position: absolute;
+  height: 90px;
+  top: 886px;
+  font-family: "PT Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 30px;
+  color: #42567a;
+}
+
+.text-date-2017 {
+  left: 1280px;
+  width: 320px;
+}
+
+/*# sourceMappingURL=index-date-text.css.map */

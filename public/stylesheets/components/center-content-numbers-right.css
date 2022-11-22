@@ -1,0 +1,20 @@
+.center-content-numbers-right {
+  position: absolute;
+  width: 973px;
+  height: 160px;
+  top: 400px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 200px;
+  line-height: 160px;
+  text-align: center;
+  letter-spacing: -0.02em;
+  z-index: -1;
+}
+
+.center-content-numbers-right {
+  left: 804px;
+  color: #df4e96;
+}
+
+/*# sourceMappingURL=center-content-numbers-right.css.map */

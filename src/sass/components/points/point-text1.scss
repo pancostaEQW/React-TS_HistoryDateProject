@@ -1,0 +1,5 @@
+@import "./main-number-point-text.scss";
+
+.point-text1 {
+    @extend %main-number-point-text;
+}

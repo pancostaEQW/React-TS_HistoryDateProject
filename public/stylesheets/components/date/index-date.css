@@ -1,0 +1,52 @@
+.date2017, .date2016, .date2015 {
+  width: 41px;
+  height: 30px;
+  top: 841px;
+  font-family: "Bebas Neue";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 120%;
+  text-transform: uppercase;
+  color: #3877ee;
+}
+
+.date2015 {
+  left: 400px;
+}
+
+.date2017, .date2016, .date2015 {
+  width: 41px;
+  height: 30px;
+  top: 841px;
+  font-family: "Bebas Neue";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 120%;
+  text-transform: uppercase;
+  color: #3877ee;
+}
+
+.date2016 {
+  left: 800px;
+}
+
+.date2017, .date2015, .date2016 {
+  width: 41px;
+  height: 30px;
+  top: 841px;
+  font-family: "Bebas Neue";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 120%;
+  text-transform: uppercase;
+  color: #3877ee;
+}
+
+.date2017 {
+  left: 1280px;
+}
+
+/*# sourceMappingURL=index-date.css.map */

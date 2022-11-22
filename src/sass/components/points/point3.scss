@@ -1,0 +1,7 @@
+@import "./points-main.scss";
+
+.point3 {
+  @extend %points-main;
+  left: 525.5px;
+  top: 262px;
+}

@@ -1,0 +1,19 @@
+.date2017 {
+  position: absolute;
+  width: 41px;
+  height: 30px;
+  top: 841px;
+  font-family: "Bebas Neue";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 120%;
+  text-transform: uppercase;
+  color: #3877ee;
+}
+
+.date2017 {
+  left: 1280px;
+}
+
+/*# sourceMappingURL=date2017.css.map */

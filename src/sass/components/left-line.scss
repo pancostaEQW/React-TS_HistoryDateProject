@@ -1,0 +1,9 @@
+@import "./box-content.scss";
+
+.left-line {
+  @extend %box-content;
+  width: 0px;
+  height: 1080px;
+  left: 1760px;
+  top: 0px;
+}

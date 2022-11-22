@@ -1,0 +1,7 @@
+@import "./center-content-numbers.scss";
+
+.center-content-numbers-right {
+  @extend %center-content-numbers;
+  left: calc(537px*2)-270;
+  color: #df4e96;
+}

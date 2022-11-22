@@ -1,0 +1,16 @@
+.point3 {
+  position: absolute;
+  background: rgba(48, 62, 88, 0.5);
+  border: 1px solid rgba(48, 62, 88, 0.5);
+  box-sizing: border-box;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+}
+
+.point3 {
+  left: 525.5px;
+  top: 262px;
+}
+
+/*# sourceMappingURL=point3.css.map */

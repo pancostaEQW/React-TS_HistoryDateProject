@@ -1,0 +1,43 @@
+@import "./components/circle.scss";
+@import "./components/left-line.scss";
+@import "./components/right-line.scss";
+@import "./components/center-line-g.scss";
+@import "./components/center-line-v.scss";
+@import "./components/circle.scss";
+@import "./components/center-content-numbers-left.scss";
+@import "./components/center-content-numbers-right.scss";
+@import "./components/points/index-points.scss";
+@import "./components/histoty-date.scss";
+@import "./components/date/index-date.scss";
+@import "./components/date/index-date-text.scss";
+@import "./components/pointers/pointer-left.scss";
+@import "./components/pointers/pointer-right.scss";
+@import "./components/pointers/arrow-left.scss";
+@import "./components/pointers/arrow-right.scss";
+@import "./components/swiper/swiper-d.scss";
+@import "./components/micro-numbers.scss";
+@import "./components/pointers/next-mydate-button.scss";
+@import "./components/pointers/perv-mydate-button.scss";
+@import "./components/gradient.scss";
+
+
+
+body {
+  font-family: "PT Sans";
+  font-style: normal;
+  position: absolute;
+  margin: 0;
+  padding: 0;
+  max-width: 1920px;
+  max-height: 1080px;
+  left: 0px;
+  top: 0px;
+  background: #f4f5f9;
+}
+
+
+
+
+
+
+

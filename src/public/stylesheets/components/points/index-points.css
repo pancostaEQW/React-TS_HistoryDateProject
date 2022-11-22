@@ -1,0 +1,66 @@
+.point5, .point4, .point3, .point2, .point1 {
+  border-radius: 50%;
+  position: absolute;
+  width: 6px;
+  height: 6px;
+  background: #42567a;
+}
+
+.point1 {
+  left: 907px;
+  top: 246px;
+}
+
+.point5, .point4, .point3, .point2, .point1 {
+  border-radius: 50%;
+  position: absolute;
+  width: 6px;
+  height: 6px;
+  background: #42567a;
+}
+
+.point2 {
+  left: 772px;
+  top: 477px;
+}
+
+.point5, .point4, .point3, .point1, .point2 {
+  border-radius: 50%;
+  position: absolute;
+  width: 6px;
+  height: 6px;
+  background: #42567a;
+}
+
+.point3 {
+  left: 895px;
+  top: 701px;
+}
+
+.point5, .point4, .point1, .point2, .point3 {
+  border-radius: 50%;
+  position: absolute;
+  width: 6px;
+  height: 6px;
+  background: #42567a;
+}
+
+.point4 {
+  left: 1171px;
+  top: 704px;
+}
+
+.point5, .point1, .point2, .point3, .point4 {
+  border-radius: 50%;
+  position: absolute;
+  width: 6px;
+  height: 6px;
+  background: #42567a;
+}
+
+.point5 {
+  left: 1302px;
+  top: 477px;
+}
+
+/*# sourceMappingURL=index-points.css.map */

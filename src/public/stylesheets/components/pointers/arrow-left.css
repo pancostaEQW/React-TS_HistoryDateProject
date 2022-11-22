@@ -1,0 +1,13 @@
+.arrow-left {
+  position: absolute;
+  width: 6.25px;
+  height: 12.5px;
+  top: 757.25px;
+}
+
+.arrow-left {
+  left: 470px;
+  transform: matrix(1, 0, 0, -1, 0, 0);
+}
+
+/*# sourceMappingURL=arrow-left.css.map */

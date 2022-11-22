@@ -1,0 +1,6 @@
+@import "./pointer-box.scss";
+
+.pointer-right {
+    @extend %pointer-box;
+    left: 510px;
+}

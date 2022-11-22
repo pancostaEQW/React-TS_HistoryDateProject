@@ -1,0 +1,19 @@
+.center-content-numbers-left {
+  position: absolute;
+  width: 973px;
+  height: 160px;
+  top: 400px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 200px;
+  line-height: 160px;
+  text-align: center;
+  letter-spacing: -0.02em;
+}
+
+.center-content-numbers-left {
+  left: 268.5px;
+  color: #5d5fef;
+}
+
+/*# sourceMappingURL=center-content-numbers-left.css.map */
